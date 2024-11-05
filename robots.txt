@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihuxaahu.github.io/Nth/sitemap_index.txt
+Sitemap: https://ihuxaahu.github.io/QVB/sitemap_index.txt
+Sitemap: https://ihuxaahu.github.io/Swb/sitemap_index.txt
+Sitemap: https://ihuxaahu.github.io/ovJ/sitemap_index.txt
